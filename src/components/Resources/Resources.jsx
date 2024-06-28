@@ -4,7 +4,7 @@ import "./Resources.css";
 
 const RESOURCES = [
   {
-    name: "СР НАУ",
+    name: "Студрада НАУ",
     imgUrl: "/sr_nau.jpg",
     link: "https://t.me/studrada_nau",
   },
@@ -24,9 +24,19 @@ const RESOURCES = [
     link: "https://t.me/nauinformal",
   },
   {
+    name: "Проєктний офіс НАУ",
+    imgUrl: "/project_office.jpg",
+    link: "https://t.me/KAI_PMO",
+  },
+  {
     name: "СР Студмістечка",
     imgUrl: "/sr_sm_nau.jpeg",
     link: "https://t.me/nau_srsm",
+  },
+  {
+    name: "НАУ",
+    imgUrl: "/nau.jpg",
+    link: "https://t.me/officialnau",
   },
   {
     name: "ТОСА НАУ",
