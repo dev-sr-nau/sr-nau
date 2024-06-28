@@ -24,7 +24,7 @@ const RESOURCES = [
     link: "https://t.me/nauinformal",
   },
   {
-    name: "Проєктний офіс НАУ",
+    name: "Проєктний НАУ",
     imgUrl: "/project_office.jpg",
     link: "https://t.me/KAI_PMO",
   },
