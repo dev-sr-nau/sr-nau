@@ -1,0 +1,12 @@
+main {
+  width: 100vw;
+  background-size: 32px 32px;
+  background-image: radial-gradient(#ffffff 1px, transparent 1px);
+  position: relative;
+  overflow-x: hidden;
+}
+
+.about-and-telegram {
+  display: flex;
+  justify-content: center;
+}
